@@ -1,0 +1,72 @@
+.side-bar{
+    position: relative;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 350px;
+    height: 100%;
+    background-color:#043f79;
+    border: 1px solid #fff;
+border-radius: 10px;
+transition: transform 0.3s ease-in-out;
+box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5); 
+}
+h2{
+    text-align: center;
+    margin-top: 5px;
+}
+.reset{
+    position: absolute;
+    bottom: 3px;
+    width: 80%;
+    height: 40px;
+    padding: 15px;
+    background-color: orangered;
+  align-items: center;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  font-size: 18px;
+  font-family: "Coming Soon", cursive;
+  margin-left: 40px;
+  font-weight: bold;
+}
+
+.reset:hover{
+color: #fff;
+}
+.card-items{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+.card-item{
+    margin: 10px 5px 10px 3px;
+    background-color:#1b5690;
+    width: 95%;
+    border: none;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.card-item img{
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+}
+.card-item-info{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+
+}
+
+
+.counter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 60px;
+}
