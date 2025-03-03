@@ -2,7 +2,7 @@
   "name": "shopping_card",
   "version": "0.1.0",
   "private": true,
-  "homepage":"",
+  "homepage":"https://julimostova.github.io/shoppingCard/",
   "dependencies": {
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
