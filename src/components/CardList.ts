@@ -13,88 +13,88 @@ import img12 from "../assets/images/12.jpg";
 
 const CardList = [
   {
-    id:1,
-    describe:
+    id:'1',
+    name:
       "Armchair",
-    img: img1,
-    cost: 200,
+    imageUtl: img1,
+    price: 200,
   },
 
   {
-    id:2,
-    describe:
+    id:'2',
+    name:
       "Rocking Chair",
-    img: img2,
-    cost: 220,
+    imageUtl: img2,
+    price: 220,
   },
   {
-    id:3,
-    describe:
+    id:'3',
+    name:
       "Recliner",
-    img: img3,
-    cost: 150,
+    imageUtl: img3,
+    price: 150,
   },
   {
-    id:4,
-    describe:
+    id:'4',
+    name:
       "Barstool",
-    img: img4,
-    cost: 170,
+    imageUtl: img4,
+    price: 170,
   },
   {
-    id:5,
-    describe:
+    id:'5',
+    name:
       "Wingback Chair",
-    img: img5,
-    cost: 185,
+    imageUtl: img5,
+    price: 185,
   },
   {
-    id:6,
-    describe:
+    id:'6',
+    name:
       "Swivel Chair",
-    img: img6,
-    cost: 380,
+    imageUtl: img6,
+    price: 380,
   },
   {
-    id:7,
-    describe:
+    id:'7',
+    name:
       "Folding Chair",
-    img: img7,
-    cost: 380,
+    imageUtl: img7,
+    price: 380,
   },
   {
-    id:8,
-    describe:
+    id:'8',
+    name:
       "Eames Chair",
-    img: img8,
-    cost: 125,
+    imageUtl: img8,
+    price: 125,
   },
   {
-    id:9,
-    describe:
+    id:'9',
+    name:
       "Dining Chair",
-    img: img9,
-    cost: 111,
+    imageUtl: img9,
+    price: 111,
   },
   {
-    id:10,
-    describe:"Womb Chair",
-    img: img10,
-    cost: 70,
+    id:'10',
+    name:"Womb Chair",
+    imageUtl: img10,
+    price: 70,
   },
   {
-    id:11,
-    describe:
+    id:'11',
+    name:
       "Adirondack Chair",
-    img: img11,
-    cost: 100,
+    imageUtl: img11,
+    price: 100,
   },
   {
-    id:12,
-    describe:
+    id:'12',
+    name:
       "Banquette:",
-    img: img12,
-    cost: 112,
+    imageUtl: img12,
+    price: 112,
   },
 ];
 export default CardList;
